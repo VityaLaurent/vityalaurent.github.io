@@ -29,17 +29,19 @@ h2 {
     }
 
 #brushes {
-    background-color: mediumspringgreen;
+    background-color: blue;
 }
 
 #frames {
-    background-color: lightcoral;
+    background-color: white;
 }
 
 #paint {
-    background-color: skyblue;
+    background-color: red;
 }
-
+#message {
+    color: black;
+}
 #price {
     font-family: helvetica;
     font-weight: bold;
